@@ -1,5 +1,6 @@
 # medicaldatavisulizer
 Project: Medical Examination Data Analysis
+
 Technologies: Python, Pandas, Seaborn, Matplotlib
 
 Analyzed medical data to explore correlations between body measurements, blood markers, and cardiovascular disease.
