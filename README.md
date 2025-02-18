@@ -1,4 +1,4 @@
-# medicaldatavisulizer
+# Medical Data Visualizer
 Project: Medical Examination Data Analysis
 
 Technologies: Python, Pandas, Seaborn, Matplotlib
